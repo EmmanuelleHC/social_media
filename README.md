@@ -10,9 +10,6 @@ A basic social media web application built with **FastAPI**, **MySQL**, and **HT
 * User **registration** and **login** (with hashed passwords).
 * **Create posts** and view all posts in the dashboard.
 * Dashboard shows posts from **all users**.
-* Clean, responsive UI using **Bootstrap** and **EasyUI**.
-* Modular structure using **FastAPI routers**.
-
 ---
 
 ## Prerequisites
